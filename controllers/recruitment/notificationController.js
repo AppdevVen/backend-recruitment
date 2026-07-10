@@ -51,7 +51,7 @@ const generateEmailTemplate = (candidateName) => {
         </tr>
         <tr>
           <td colspan="2" style="padding:16px;text-align:center;color:#6b7280;font-size:12px;border-top:1px solid #e5e7eb;margin-top:20px;">
-            PT Daya Bakti Cemerlang — DBC Group
+            DBC Group
           </td>
         </tr>
       </table>
